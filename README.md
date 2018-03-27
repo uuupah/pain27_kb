@@ -38,6 +38,8 @@ The top layer has a cutout for a pro micro to poke through. If this makes you sq
 
 The mid layer is designed for 6mm tall tapped spacers with a maximum width of 5.4mm, and an m3 internal diameter. I bought mine from [here](https://www.aliexpress.com/item/M3-15-Brass-Standoff-Spacer-Brass-Threaded-Spacer-hex-spacer-Brass-Standoff-Spacer-M3-L-Female/1860432002.html) , but if you want to use your own, change each of the hexagon cutout sizes to the size of your spacers + 0.1mm to allow for error.
 
+Note that I have included the .ai file if you want to make your own changes. 
+
 # construction
 Soldering the pcb doesn't have a specific order due to the positioning of the pro micro, but you should probably solder all the surface mount and through hole components before the switches for the sake of simplicity. you should also clip, lube, and install your spacebar stabiliser before the switches, because installing it while the plate is in place is a bit of a fiddle.
 
@@ -57,3 +59,11 @@ There are two main layouts for the pain27 - vanilla, which is simply the 26 lett
 *prime layout*
 
 Electronics isn't my forte (hence why meltyburrito made the pcb for me) so I'm going to direct you to [this guide](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md) to flash your pro micro with your layout. The process is identical, but since there is only one pcb, skip the mentions of eeprom files in part 3 step 5 and steps 11 through 16.
+
+# finishing up
+
+I recommend grabbing [ek switch hitter](https://elitekeyboards.com/switchhitter.php) to test each of your switches and function keys individually. If everything is working at this point, congratulations! I've made about fifteen custom keyboards and I've never been able to get them work first time. If not, don't fret. Pop the back open and inspect your soldering. Look for poor or missing joints, reversed diodes, or damage to the pcb or pro micro. Try reinstalling the firmware (perhaps the opposite of what you used first time as a check). if neither of these work, try desoldering and replacing the problem switch. If you're still having issues, try asking the mechanical keyboards discord for advice.
+
+~~ note ~~
+
+This guide makes no mention of the backlighting and underglow because I'm writing the guide the night after completing my final board, and I haven't yet updated the firmware to support either yet. I will be updating this readme and the firmware files in the near future.
