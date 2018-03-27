@@ -58,7 +58,7 @@ There are two main layouts for the pain27 - vanilla, which is simply the 26 lett
 
 *prime layout*
 
-Electronics isn't my forte (hence why meltyburrito made the pcb for me) so I'm going to direct you to [this guide](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md) to flash your pro micro with your layout. The process is identical, but since there is only one pcb, skip the mentions of eeprom files in part 3 step 5 and steps 11 through 16.
+Electronics isn't my forte (hence why meltyburrito made the pcb for me) so I'm going to direct you to [this guide](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md) to flash your pro micro with your layout. The process is identical, but since there is only one pcb, skip the mentions of eeprom files in part 3, step 5 and steps 11 through 16.
 
 # finishing up
 
