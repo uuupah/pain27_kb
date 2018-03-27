@@ -1,5 +1,5 @@
 # pain27
-The pain27 is an open source keyboard project to make an easily usable yet completely and utterly unusable qwerty with all the letters of the english alphabet, a spacebar, and nothing else. Supports cherry mx style and smk switches, through hole leds for backlighting, rgb underglow, and only requires a pro micro for programming.
+The pain27 is an open source keyboard project to make an easily usable, yet completely and utterly unusable qwerty keyboard with all the letters of the english alphabet, a spacebar, and nothing else. Supports cherry mx style and smk switches, through hole leds for backlighting, rgb underglow, and only requires a pro micro for programming.
 
 # parts required
 
@@ -16,6 +16,7 @@ For the keyboard:
 - 27* 1n4148 diodes
 - 1* set of cherry mx compatible alpha keycaps, and a 6.25 unit spacebar
 - 1* cherry pcb mount spacebar stabiliser
+- rubber feet (not required, but recommended)
 
 For the backlighting:
 
@@ -35,7 +36,13 @@ The case is a sandwich design, with four layers of 3mm acrylic to keep costs dow
 
 The top layer has a cutout for a pro micro to poke through. If this makes you squeamish or you think it might be an issue (it isn't), then swap topplate.svg for topplate_(closed).svg, and add an extra midpiece to make up for the extra height that you'll need.
 
-The mid layer is designed for 6mm tall tapped spacers with a maximum width of 5.4mm, and an m3 internal diameter. I bought mine from here: https://www.aliexpress.com/item/M3-15-Brass-Standoff-Spacer-Brass-Threaded-Spacer-hex-spacer-Brass-Standoff-Spacer-M3-L-Female/1860432002.html , but if you want to use your own, change each of the hexagon cutout sizes to the size of your spacers + 0.1mm to allow for error.
+The mid layer is designed for 6mm tall tapped spacers with a maximum width of 5.4mm, and an m3 internal diameter. I bought mine from [here](https://www.aliexpress.com/item/M3-15-Brass-Standoff-Spacer-Brass-Threaded-Spacer-hex-spacer-Brass-Standoff-Spacer-M3-L-Female/1860432002.html) , but if you want to use your own, change each of the hexagon cutout sizes to the size of your spacers + 0.1mm to allow for error.
 
 # construction
 Soldering the pcb doesn't have a specific order due to the positioning of the pro micro, but you should probably solder all the surface mount and through hole components before the switches for the sake of simplicity. you should also clip, lube, and install your spacebar stabiliser before the switches, because installing it while the plate is in place is a bit of a fiddle.
+
+The pro micro must be installed component side down. This should mostly protect it from whatever filthy energy drinks that you spill on it. I dont know what will happen if you install it component side up, but it probably won't work, for starters.
+
+Once the pcb is populated with your components, your switches are installed (which should leave your plate and pcb as a single connected unit), flip it upside down, and place the midpieces over the plate. Slot the spacers into their holes, and screw them in from the underside. Make one last check that everything is in place, then put on the baseplate and screw it down as well.
+
+# programming
