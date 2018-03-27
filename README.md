@@ -47,7 +47,7 @@ You can also forgo the case completely by top mounting all of the components, cu
 # construction
 Soldering the pcb doesn't have a specific order due to the positioning of the pro micro, but you should probably solder all the surface mount and through hole components before the switches for the sake of simplicity. you should also clip, lube, and install your spacebar stabiliser before the switches, because installing it while the plate is in place is a bit of a fiddle.
 
-The pro micro must be installed component side down. This should mostly protect it from whatever filthy energy drinks that you spill on it. I dont know what will happen if you install it component side up, but it probably won't work, for starters.
+The pro micro must be installed component side down. 
 
 Once the pcb is populated with your components, your switches are installed (which should leave your plate and pcb as a single connected unit), flip it upside down, and place the midpieces over the plate. Slot the spacers into their holes, and screw them in from the underside. Make one last check that everything is in place, then put on the baseplate and screw it down as well.
 
