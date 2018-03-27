@@ -46,3 +46,10 @@ The pro micro must be installed component side down. This should mostly protect 
 Once the pcb is populated with your components, your switches are installed (which should leave your plate and pcb as a single connected unit), flip it upside down, and place the midpieces over the plate. Slot the spacers into their holes, and screw them in from the underside. Make one last check that everything is in place, then put on the baseplate and screw it down as well.
 
 # programming
+There are two main layouts for the pain27 - vanilla, which is simply the 26 letters of the english language and the spacebar, and prime, which includes three layers under hold keys, as well as shift and ctrl on the top layer. Compiled hexes for each are supplied, as well as jsons if you want to make your own adjustments through [ruiqi mao's excellent kb firmware builder](https://kbfirmware.com).
+
+![vanilla layout](https://github.com/uuupah/pain27/blob/master/vanillalayout.png?raw=true)
+vanilla layout
+
+![prime layout](https://github.com/uuupah/pain27/blob/master/primelayout.png?raw=true)
+prime layout
