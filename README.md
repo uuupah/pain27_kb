@@ -68,5 +68,7 @@ I recommend grabbing [ek switch hitter](https://elitekeyboards.com/switchhitter.
 
 This guide makes no mention of the backlighting and underglow because I'm writing the guide the night after completing my final board, and I haven't yet updated the firmware to support either yet. I will be updating this readme and the firmware files in the near future.
 
+Additionally, I make no guarantees about the quality of any of the files I've supplied. Check them thoroughly yourself, , my work has a habit of hiding nasty issues until its just a little bit too late.
+
 ## acknowledgements
 Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) gave me a big hand with this board. If it wasnt for him, this would probably just be a guide on handwiring this piece of shit, which is much less fun. Check out his work, he's made a couple of other stupid keyboards besides this one.
