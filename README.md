@@ -49,7 +49,9 @@ Once the pcb is populated with your components, your switches are installed (whi
 There are two main layouts for the pain27 - vanilla, which is simply the 26 letters of the english language and the spacebar, and prime, which includes three layers under hold keys, as well as shift and ctrl on the top layer. Compiled hexes for each are supplied, as well as jsons if you want to make your own adjustments through [ruiqi mao's excellent kb firmware builder](https://kbfirmware.com).
 
 ![vanilla layout](https://github.com/uuupah/pain27/blob/master/vanillalayout.png?raw=true)
+
 vanilla layout
 
 ![prime layout](https://github.com/uuupah/pain27/blob/master/primelayout.png?raw=true)
+
 prime layout
