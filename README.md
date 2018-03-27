@@ -42,7 +42,7 @@ Note that I have included the .ai file if you want to make your own changes.
 
 If you're rich and insane, you could make a 1.5mm metal plate. This would allow you to cut down the exceedingly ugly slots that are required to keep pcb mount cherry stabilisers from having issues with 3mm plates. You will also have to adjust the midpiece spacing accordingly, because the default configuration is pretty tight.
 
-You can also forgo the case completely by top mounting all of the components, cutting them flush on the underside of the pcb and putting on some adhesive rubber strips or feet to stop the bare pcb from sliding around on your desk and potentially scratching it up. This is my recommended option, because you should spend as little money on this memeboard as possible.
+You can also forgo the case completely by top mounting all of the components, cutting them flush on the underside of the pcb and putting on some adhesive rubber strips or feet to stop the bare pcb from sliding around on your desk and potentially scratching it up. This is my recommended option, because you should spend as little money on this memeboard as humanly possible.
 
 # construction
 Soldering the pcb doesn't have a specific order due to the positioning of the pro micro, but you should probably solder all the surface mount and through hole components before the switches for the sake of simplicity. you should also clip, lube, and install your spacebar stabiliser before the switches, because installing it while the plate is in place is a bit of a fiddle.
