@@ -29,10 +29,10 @@ for the rgb underglow:
 - 1* 470 ohm resistor
 
 # pcb
-The pcb is by far the simplest part of the project. Grab the zip and order a pcb through your favourite pcb manufacture service. I used JLCPCB, but you probably know who you prefer. 
+Grab the zip and order a pcb through your favourite pcb manufacture service. I used JLCPCB, but you probably know who you prefer. 
 
 # case
-The case is a sandwich design, with four layers of 3mm acrylic to keep costs down. The standard design has one plate layer, two midpieces and one bottom layer. 
+The case is a sandwich design, with four layers of 3mm acrylic to keep costs down. The standard design has one plate layer, two midpieces and one bottom layer. The midpieces can be omitted if you prefer
 
 The top layer has a cutout for a pro micro to poke through. If this makes you squeamish or you think it might be an issue (it isn't), then swap topplate.svg for topplate_(closed).svg, and add an extra midpiece to make up for the extra height that you'll need.
 
