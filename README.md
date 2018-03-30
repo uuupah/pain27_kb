@@ -1,6 +1,8 @@
 # pain27
 The pain27 is an open source keyboard project to make an easily usable, yet completely and utterly unusable qwerty keyboard with all the letters of the english alphabet, a spacebar, and nothing else. Supports cherry mx style and smk switches, through hole leds for backlighting, rgb underglow, and only requires a pro micro for programming.
 
+![titlecard](https://github.com/uuupah/pain27/blob/master/titlecard.jpg?raw=true)
+
 # parts required
 
 For the keyboard:
