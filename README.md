@@ -68,13 +68,13 @@ Electronics isn't my forte (hence why meltyburrito made the pcb for me) so I'm g
 
 # finishing up
 
-I recommend grabbing [ek switch hitter](https://elitekeyboards.com/switchhitter.php) to test each of your switches and function keys individually. If everything is working at this point, congratulations! I've made about fifteen custom keyboards and I've never been able to get them work first time. If not, don't fret. Pop the back open and inspect your soldering. Look for poor or missing joints, reversed diodes, or damage to the pcb or pro micro. Try reinstalling the firmware (perhaps the opposite of what you used first time as a check). if neither of these work, try desoldering and replacing the problem switch. If you're still having issues, try asking the mechanical keyboards discord for advice.
+I recommend grabbing [ek switch hitter](https://elitekeyboards.com/switchhitter.php) to test each of your switches and function keys individually. If everything is working at this point, congratulations!  If not, don't fret. Pop the back open and inspect your soldering. Look for poor or missing joints, reversed diodes, or damage to the pcb or pro micro. Try reinstalling the firmware (perhaps the opposite of what you used first time as a check). if neither of these work, try desoldering and replacing the problem switch. If you're still having issues, try asking the mechanical keyboards discord for advice.
 
 ~~ note ~~
 
 This guide makes no mention of the backlighting and underglow because I'm writing the guide the night after completing my final board, and I haven't yet updated the firmware to support either yet. I will be updating this readme and the firmware files in the near future.
 
-Additionally, I make no guarantees about the quality of any of the files I've supplied. Check them thoroughly yourself, my work has a habit of hiding nasty issues until its just a little bit too late.
+Additionally, I make no guarantees about the quality of any of the files I've supplied. Check them thoroughly yourself.
 
 ## acknowledgements
 Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) gave me a big hand with this board. If it wasnt for him, this would probably just be a guide on handwiring this piece of shit, which is much less fun. Check out his work, he's made a couple of other stupid keyboards besides this one.
