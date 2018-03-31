@@ -78,3 +78,9 @@ Additionally, I make no guarantees about the quality of any of the files I've su
 
 ## acknowledgements
 Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) gave me a big hand with this board. If it wasnt for him, this would probably just be a guide on handwiring this piece of shit, which is much less fun. Check out his work, he's made a couple of other stupid keyboards besides this one.
+
+## licensing
+
+Copyright © 2018 Jonathan Souter and Contributors
+
+Distributed under Creative Commons CC BY-NC-ND. Contact me at /u/jonathansouter to discuss selling the pain27 or organising groupbuys.
