@@ -34,9 +34,9 @@ for the rgb underglow:
 Grab the zip and order a pcb through your favourite pcb manufacture service. I used JLCPCB. 
 
 # case
-The case is a sandwich design, with four layers of 3mm acrylic to keep costs down. The standard design has one plate layer, two midpieces and one bottom layer. The midpieces can be omitted if you prefer
+The case is a sandwich design, with four layers of 3mm acrylic to keep costs down. The standard design has one plate layer, two midpieces and one bottom layer. The midpieces can be omitted if you prefer.
 
-The top layer has a cutout for a pro micro to poke through. If this makes you squeamish or you think it might be an issue (it isn't), then swap topplate.svg for topplate_(closed).svg, and add an extra midpiece to make up for the extra height that you'll need.
+The top layer has a cutout for a pro micro to poke through. If this makes you squeamish, then swap topplate.svg for topplate_(closed).svg, and add an extra midpiece to make up for the extra height that you'll need. Note that you will need to solder the pro micro to the underside of the pcb in this case, still with the components facing down.
 
 The mid layer is designed for 6mm tall tapped spacers with a maximum width of 5.4mm, and an m3 internal diameter. I bought mine from [here](https://www.aliexpress.com/item/M3-15-Brass-Standoff-Spacer-Brass-Threaded-Spacer-hex-spacer-Brass-Standoff-Spacer-M3-L-Female/1860432002.html) , but if you want to use your own, change each of the hexagon cutout sizes to the size of your spacers + 0.1mm to allow for error.
 
