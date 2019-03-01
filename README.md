@@ -81,6 +81,4 @@ Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) gave me a big
 
 ## licensing
 
-Copyright © 2018 Jonathan Souter and Contributors
-
-Distributed under Creative Commons BY. Contact me at /u/jonathansouter to discuss selling the pain27 or organising groupbuys.
+Distributed freely under CC0.
