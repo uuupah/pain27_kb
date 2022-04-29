@@ -1,0 +1,41 @@
+{
+    "keyboard_name": "Pain27",
+    "url": "https://github.com/uuupah",
+    "maintainer": "uuupah",
+    
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "k00" },
+                {"label": "k01" },
+                {"label": "k02" },
+				{"label": "k03" },
+				{"label": "k04" },
+                {"label": "k05" },
+                {"label": "k06" },
+				{"label": "k07" },
+				{"label": "k08" },
+
+                {"label": "k10" },
+                {"label": "k11" },
+                {"label": "k12" },
+				{"label": "k13" },
+				{"label": "k14" },
+                {"label": "k15" },
+                {"label": "k16" },
+				{"label": "k17" },
+				{"label": "k18" },
+
+				{"label": "k20" },
+                {"label": "k21" },
+                {"label": "k22" },
+				{"label": "k23" },
+				{"label": "k24" },
+                {"label": "k25" },
+                {"label": "k26" },
+				{"label": "k27" },
+				{"label": "k28" }
+            ]
+        }
+    }
+}
