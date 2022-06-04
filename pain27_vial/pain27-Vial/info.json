@@ -1,0 +1,40 @@
+{
+    "keyboard_name": "pain27",
+    "url": "",
+    "maintainer": "qmk",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K00 (F7,D7)", "x": 0, "y": 0 },
+                { "label": "K01 (F7,C6)", "x": 1, "y": 0 },
+                { "label": "K02 (F7,D4)", "x": 2, "y": 0 },
+                { "label": "K03 (F7,D1)", "x": 3, "y": 0 },
+                { "label": "K04 (F7,B3)", "x": 4, "y": 0 },
+                { "label": "K05 (F7,F4)", "x": 5, "y": 0 },
+                { "label": "K06 (F7,F5)", "x": 6, "y": 0 },
+                { "label": "K07 (F7,B1)", "x": 7, "y": 0 },
+                { "label": "K18 (E6,F6)", "x": 8, "y": 0 },
+                { "label": "K08 (F7,F6)", "x": 9, "y": 0 },
+                { "label": "K10 (E6,D7)", "x": 0.25, "y": 1 },
+                { "label": "K11 (E6,C6)", "x": 1.25, "y": 1 },
+                { "label": "K12 (E6,D4)", "x": 2.25, "y": 1 },
+                { "label": "K13 (E6,D1)", "x": 3.25, "y": 1 },
+                { "label": "K14 (E6,B3)", "x": 4.25, "y": 1 },
+                { "label": "K15 (E6,F4)", "x": 5.25, "y": 1 },
+                { "label": "K16 (E6,F5)", "x": 6.25, "y": 1 },
+                { "label": "K17 (E6,B1)", "x": 7.25, "y": 1 },
+                { "label": "K28 (B4,F6)", "x": 8.25, "y": 1 },
+                { "label": "K20 (B4,D7)", "x": 0.75, "y": 2 },
+                { "label": "K21 (B4,C6)", "x": 1.75, "y": 2 },
+                { "label": "K22 (B4,D4)", "x": 2.75, "y": 2 },
+                { "label": "K23 (B4,D1)", "x": 3.75, "y": 2 },
+                { "label": "K25 (B4,F4)", "x": 4.75, "y": 2 },
+                { "label": "K26 (B4,F5)", "x": 5.75, "y": 2 },
+                { "label": "K27 (B4,B1)", "x": 6.75, "y": 2 },
+                { "label": "K24 (B4,B3)", "x": 2.25, "y": 3, "w": 6.25 }
+            ]
+        }
+    }
+    ,"meta": "https://noroadsleft.github.io/kbf_qmk_converter/"
+}
+
