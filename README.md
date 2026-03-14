@@ -77,7 +77,7 @@ This guide makes no mention of the backlighting and underglow because I'm writin
 Additionally, I make no guarantees about the quality of any of the files I've supplied. Check them thoroughly yourself.
 
 ## acknowledgements
-Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) gave me a big hand with this board. If it wasnt for him, this would probably just be a guide on handwiring this piece of shit, which is much less fun. Check out his work, he's made a couple of other stupid keyboards besides this one.
+Meltyburrito aka [screllicopter](https://github.com/ScrelliCopter) gave me a big hand with this board. If it wasnt for them, this would probably just be a guide on handwiring this piece of shit, which is much less fun. Check out his work, he's made a couple of other stupid keyboards besides this one.
 
 ## licensing
 
